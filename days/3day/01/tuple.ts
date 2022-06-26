@@ -10,3 +10,4 @@ x = ["hello", 10];
 
 const person: [string, number] = ["Mark", 20];
 // const [first, second , third] = person;
+export {};
